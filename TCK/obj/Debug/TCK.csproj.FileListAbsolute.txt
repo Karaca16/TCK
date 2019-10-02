@@ -1,0 +1,10 @@
+C:\Users\İbrahim\Documents\Visual Studio 2012\Projects\TCK\TCK\bin\Debug\TCK.exe.config
+C:\Users\İbrahim\Documents\Visual Studio 2012\Projects\TCK\TCK\bin\Debug\TCK.exe
+C:\Users\İbrahim\Documents\Visual Studio 2012\Projects\TCK\TCK\bin\Debug\TCK.pdb
+C:\Users\İbrahim\Documents\Visual Studio 2012\Projects\TCK\TCK\obj\Debug\TCK.csprojResolveAssemblyReference.cache
+C:\Users\İbrahim\Documents\Visual Studio 2012\Projects\TCK\TCK\obj\Debug\TCK.Properties.Resources.resources
+C:\Users\İbrahim\Documents\Visual Studio 2012\Projects\TCK\TCK\obj\Debug\TCK.csproj.GenerateResource.Cache
+C:\Users\İbrahim\Documents\Visual Studio 2012\Projects\TCK\TCK\obj\Debug\TCK.exe
+C:\Users\İbrahim\Documents\Visual Studio 2012\Projects\TCK\TCK\obj\Debug\TCK.pdb
+C:\Users\İbrahim\Documents\Visual Studio 2012\Projects\TCK\TCK\obj\Debug\TCK.frm_questions.resources
+C:\Users\İbrahim\Documents\Visual Studio 2012\Projects\TCK\TCK\obj\Debug\TCK.frm_TCK_ANASAYFA.resources
